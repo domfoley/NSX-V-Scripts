@@ -1,0 +1,6 @@
+/pathto/discovered_ips.py"
+"Entries found for nic-17712648-eth0-vmware-sfw.2: 1\n\t[1] vlan = 0  mac = 00:50:56:be:b4:ec  IP = 10.35.16.26 (ARP snooping)\n"
+"Entries found for nic-17918560-eth0-vmware-sfw.2: 1\n\t[1] vlan = 0  mac = 00:50:56:be:5e:28  IP = 10.35.16.25 (ARP snooping)\n"
+"Entries found for nic-17918770-eth0-vmware-sfw.2: 1\n\t[1] vlan = 0  mac = 00:50:56:be:3e:bd  IP = 172.31.100.50 (ARP snooping)\n"
+"Entries found for nic-17918998-eth0-vmware-sfw.2: 1\n\t[1] vlan = 0  mac = 00:50:56:be:b4:30  IP = 172.31.100.51 (ARP snooping)\n"
+/pathto % 
